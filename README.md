@@ -1,4 +1,4 @@
-# vuex-next-template
+# Advanced Counter
 
 ## Project setup
 ```
